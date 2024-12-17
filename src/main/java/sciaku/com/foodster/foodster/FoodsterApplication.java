@@ -30,7 +30,7 @@ public class FoodsterApplication implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		System.out.println("Started...8080");
+		System.out.println("Started...9090");
 //		try
 //		{
 //		Member member = new Member();
@@ -39,7 +39,7 @@ public class FoodsterApplication implements CommandLineRunner {
 //		member.setLastname("Prakash");
 //		member.setEmail("foodster0@gmail.com");
 //		member.setPassword(this.bCryptPasswordEncoder.encode("15nov2002"));
-//		member.setProfile("default.png");
+//		member.setProfile("default.jpg");
 //		member.setContact("7985079740");
 //		member.setCity("Lucknow");
 //		member.setStatus(true);
